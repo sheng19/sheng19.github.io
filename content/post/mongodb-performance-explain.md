@@ -1,7 +1,7 @@
 ---
 title: "MongoDB Performance Explain"
 date: 2023-12-25T14:24:02+08:00
-draft: true
+draft: false
 ---
 
 這篇文章是 [M201: MongoDB Performance](https://learn.mongodb.com/courses/m201-mongodb-performance) 的課程筆記  
